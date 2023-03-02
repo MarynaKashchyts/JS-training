@@ -1,1 +1,2 @@
 Test Text for JS training
+Some more text for JS training
