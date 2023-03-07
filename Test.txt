@@ -3,4 +3,4 @@ Some more text for JS training
 3rd line to add
 
 new content added
-===========================
+new branch line
