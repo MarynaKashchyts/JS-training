@@ -1,1 +1,3 @@
 # JS-training
+
+new content
