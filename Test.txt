@@ -5,3 +5,5 @@ Some more text for JS training
 new content added
 new branch line
 another line in the new branch
+
+to add tags
