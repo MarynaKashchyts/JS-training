@@ -1,9 +1,9 @@
 
 Some more text for JS training
-3rd line to add
+3rd row to add
 
 new content added
-new branch line
-another line in the new branch
+new branch row
+another row in the new branch
 
 to add tags
